@@ -1,0 +1,16 @@
+{
+    "name": "janithweerakoon/sscwproject",
+    "description": "cw4",
+    "autoload": {
+        "psr-4": {
+            "Janithweerakoon\\Sscwproject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Janith Weerakoon",
+            "email": "janithcharuka1230@gmail.com"
+        }
+    ],
+    "require": {}
+}
